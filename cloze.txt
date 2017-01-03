@@ -1,0 +1,4 @@
+text: [cloze]  was the first president of the United States., cloze: George Washington
+text: [cloze]  is the current year., cloze: 2017
+text: [cloze]  is the number one movie this week., cloze: Rogue One
+text: To be or not to be is a quote from [cloze]., cloze: Hamlet
